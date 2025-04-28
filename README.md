@@ -24,6 +24,4 @@ This MATLAB project simulates and analyzes EEG signals to classify mental states
 ✅ Functional  
 ✅ Tested on MATLAB R2021b and above
 
-## Author
-[Your Name Here]
-
+anagha saraswathy
